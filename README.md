@@ -18,6 +18,10 @@ cd nosleep
 cargo run
 ```
 
+## On library requirements
+
+On linux you might need to install `libxdo-dev`, however this is a tool that's really meant for corporate Windows or MacOs computers, I am yet to encounter a corporate Linux computer where you cannot change the time it takes for your computer to go to sleep.
+
 # Disclaimer
 
 Any security professional will totally condemn any tentative to circumvent corporate security policies that might enforce early locking of your devices.
